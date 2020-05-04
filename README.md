@@ -3,7 +3,7 @@
 This is a skeleton project for a Go REST API service using Kafka for event sourcing.
 
 <p align="center">
-  <img src="assets/images/demo.png" alt="Demo" width="500"/>
+  <img src="assets/images/demo.png" alt="Demo"/>
 </p>
 
 This has only been tested on Linux, and depends on Docker to build.
